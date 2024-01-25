@@ -1,0 +1,64 @@
+
+.flex{
+    display: flex;
+}
+
+.justify-center{
+
+    justify-content: center;
+}
+
+.align-item{
+
+    align-items: center;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.border{
+
+    border:2px solid red;
+}
+.bg-black{
+
+    background-color: black;
+    color:white;
+}
+
+.bg-gray{
+    background-color:#121212;
+}
+
+.rounded{
+    border-radius: 7px;
+}
+
+.m1{
+    margin: 7px;
+}
+.p1{
+    padding: 10px;
+}
+.pl{
+    padding-left: 10px;
+}
+
+.i-font{
+    font-size: 1.2rem;
+}
+
+.cerser_pointer{
+
+    cursor: pointer;
+}
+
+.display_none{
+    display: none;
+}
+
+.display_active{
+    display:inline;
+}
+
